@@ -1,6 +1,6 @@
 # 🎮 Welcome to Pixeleur Game Studio 🕹️
 
-![Pixeleur Logo](https://avatars.githubusercontent.com/u/130852560?s=400&u=7c195c6702d2e3a7c27c872844c089cec3c0086e&v=4)
+![Pixeleur Logo](https://pixeleur.fr/IMAGES/Presskit/Pixeleur/logoPixeleur_white.png)
 
 ## About Us 👾
 
