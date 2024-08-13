@@ -4,7 +4,7 @@
 
 ## About Us 👾
 
-At Pixeleur, we're not just a game studio; we're a crew of passionate creators who believe in making games for pure joy. 🚀 Hailing from France, we craft gaming experiences that bring a smile to your face and a rush to your fingertips. We're all about Unreal Engine wizardry, and our magic extends to games, apps, websites, and even ventures into the intriguing world of blockchain. 🌟
+At Pixeleur, we're not just a game studio; we're a crew of passionate creators who believe in making games for pure joy. 🚀 Game studio from France, we craft gaming experiences that bring a smile to your face and a rush to your fingertips. We're all about Unreal Engine wizardry, and our magic extends to games, apps, websites, and even ventures into the intriguing world of blockchain. 🌟
 
 ## Projects 🎯
 
@@ -12,11 +12,9 @@ At Pixeleur, we're not just a game studio; we're a crew of passionate creators w
 
 - **SCP Rulebreaker**: Dive into the depths of terror with SCP Rulebreaker, our spine-tingling horror game set in the enigmatic SCP Foundation.
 
-- **Valor Sold**: Created under the intense heat of the GMTK 2023 GameJam, Valor Sold is a testament to our rapid creative prowess, birthed in just 48 hours.
+- **Valor Sold**: Created under the intense heat of the GMTK 2023 GameJam, Valor Sold is a testament to our rapid creative prowess, made in just 48 hours.
 
 - **OPEX Warfare**: Welcome to the battlefield of military simulation, where strategy and action meet.
-
-- **Inside The Hallway**: A blockchain-enhanced multiplayer co-op game that takes your gaming experience to a whole new level.
 
 ## Get Involved 🤝
 
