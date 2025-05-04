@@ -123,6 +123,24 @@ We're proud to maintain our core value: **Make Games For Fun** - a philosophy th
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube" alt="YouTube"/>
           </a>
         </td>
+        <td align="center">
+          <img src="https://cdn.freshperf.fr/img/favicon.ico" width="100" alt="Freshperf"/>
+          <br />
+          <strong>Freshperf</strong>
+          <br />
+          <a href="https://freshperf.fr/">
+            <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=internet-explorer&logoColor=white" alt="Site web"/>
+          </a>
+        </td>
+        <td align="center">
+          <img src="https://cocoworld.fr/storage/img/logo.png" width="100" alt="Cocoworld"/>
+          <br />
+          <strong>Cocoworld</strong>
+          <br />
+          <a href="https://cocoworld.fr">
+            <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=internet-explorer&logoColor=white" alt="Site web"/>
+          </a>
+        </td>
       </tr>
     </table>
   </a>
